@@ -23,6 +23,7 @@
 
 
     <script src=" {{ asset('/js/all.min.js') }}"></script>
+    <script src=" {{ asset('js/jquery.min.js') }}"></script>
     <script src=" {{ asset('/js/swiper-bundle.min.js') }}"></script>
     <script src=" {{ asset('/js/swiper-element-bundle.min.js') }}"></script>
     <script src=" {{ asset('/js/aos.js') }}"></script>
